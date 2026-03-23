@@ -81,7 +81,7 @@ A data-driven analysis of India's digital payment revolution using UPI transacti
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/digital-banking-india-analysis.git
+git clone https://github.com/svlord5/digital-banking-india-analysis.git
 cd digital-banking-india-analysis
 
 # Install dependencies
